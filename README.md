@@ -14,7 +14,7 @@ Puedes cambiar lo que quieras del codigo, si tienes alguna duda puedes mandarnos
 El carro se mueve hacia adelante hasta que encuentra un obstaculo, si detecta uno gira a la derecha y sigue caminando, pero si detecta un obstaculo girara a la izquierda hasta encontrar un camino valido
 
 ## Autor
-Daniel Polanco / [Github]{https://github.com/Elemeants/}
+Daniel Polanco / [Github](https://github.com/Elemeants/)
 
 ## License
 This project is licensed under the Apache-2.0 License - see the [LICENSE.md](LICENSE.md) file for details
